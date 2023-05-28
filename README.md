@@ -16,3 +16,6 @@ background-clip: text;
 transform: scale(clamp(1, calc(((var(--progress) / 100) - 0.99) * 200), 1.3));
 ```
 
+```Java
+public static void main(String[]args){} //Java
+```
