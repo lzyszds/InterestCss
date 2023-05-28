@@ -3,7 +3,7 @@
 
 ## 动态颜色渐变充电效果
 <img src="./EffectPicture/1.gif">
-```css
+```java
 background-image: linear-gradient(rgba(calc(255 - var(--progress) * 1.4),calc(var(--progress) * 2.5),calc(var(--progress) * 1.8)) calc(100% - calc(var(--progress) * 1%)), lime 0%);
 background-clip: text;
 -webkit-background-clip: text;
