@@ -15,3 +15,12 @@ calc计算当前的值  使用变量progress 除 100 得到一个小数
 ```css
 public static void main(String[]args){} //Java
 ```
+<details>
+<summary>Linux环境</summary>
+
+##### 编译
+xxxx
+
+##### 安装
+xxxx
+</details>
