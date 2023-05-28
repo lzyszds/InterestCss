@@ -7,7 +7,7 @@
   <img src="./EffectPicture/1.gif">
   <details>
   <summary>主要代码</summary>
-    background-image: linear-gradient(rgba(calc(255 - var(--progress) * 1.4),calc(var(--progress) * 2.5),calc(var(--progress) * 1.8)) calc(100% - calc(var(--progress) * 1%)), lime 0%);
+      background-image: linear-gradient(rgba(calc(255 - var(--progress) * 1.4),calc(var(--progress) * 2.5),calc(var(--progress) * 1.8)) calc(100% - calc(var(--progress) * 1%)), lime 0%);
     
     background-clip: text;
     
